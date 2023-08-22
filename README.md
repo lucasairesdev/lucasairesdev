@@ -2,8 +2,11 @@
 
 # Lucas Aires
 I'm currently coursing Systems Analysis and Development. I've also been studying Web Development for almost 2 years now.
+<br>
 I'm Full Stack Developer, since 2022.
+<br>
 I have 27 years.
+<br>
 
 ### Hard Skills
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
@@ -24,7 +27,7 @@ I have 27 years.
 [![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://web.dio.me/users/lucasairesdev?tab=skills&page=1)
 [![LINKEDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/lucas-aires/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/lucasairesdev)
-[![EMAIL](https://img.shields.io/badge/GitHub-red)](lucasairesdev@gmail.com)
+[![EMAIL](https://img.shields.io/badge/Email-red)](<a href=mailto:"lucasairesdev@gmail.com">)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasairesdev&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
